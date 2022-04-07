@@ -1,2 +1,2 @@
 # hello-world
-My first respository
+My first program。
